@@ -1,12 +1,7 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Let me welcome you with few details about ParaSpell
+🧰 A short introduction - we focus on creating tools, that make work/interaction with network consisting of substrate nodes easier<br>
+🌈 Contribution guidelines - feel free to create Pull request if you make useful network config / application feature that can help other developers 🛠️<br>
+👩‍💻 Useful resources - check out our [Wiki 📚️](https://github.com/paraspell/ui/wiki)<br>
+🍿 Fun facts - have you ever ate pizza 🍕 for Breakfast? It hits different.<br>
+🧙 Remember, this place is magical, feel free to try your paraSPELLS ✨<br>
