@@ -15,7 +15,7 @@ and
 </h3>
 
 <p align="center">
-<img width="400" alt="ParaSpell logo" src="https://user-images.githubusercontent.com/55763425/251515552-01cd692b-2462-431e-ae67-5df6db4f0ce8.png">
+<img width="400" alt="LightSpell logo" src="https://user-images.githubusercontent.com/55763425/251588168-4855abc3-445a-4207-9a65-e891975be62c.png">
 </p>
 
 
