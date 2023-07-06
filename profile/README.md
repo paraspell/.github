@@ -7,7 +7,7 @@ Let us introduce you to
 </h3>
 
 <p align="center">
-<img width="400" alt="ParaSpell logo" src="https://user-images.githubusercontent.com/55763425/197985791-fc7afa52-061d-413a-bbe9-bf1123f16a50.png">
+<img width="400" alt="ParaSpell logo" src="https://user-images.githubusercontent.com/55763425/251588903-bcf72b05-bdf7-46d8-b804-16b0e3236792.png">
 </p>
 
 <h3 align="center">
