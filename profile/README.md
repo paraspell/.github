@@ -23,6 +23,8 @@ Set of XCM tools for Polkadot and Kusama Paraverse
 
 All of our tools are **completely free** and **fully open source** 🧙‍♂️🪄
 
+Find out more about these tools at our [landing page](https://paraspell.xyz)!
+
 ## 👨‍🔬 Want to include ParaSpell✨ in your article?
 - Head over to our [presskit](https://github.com/paraspell/presskit) repository.
 
