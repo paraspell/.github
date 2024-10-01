@@ -25,7 +25,7 @@ All of our tools are **completely free** and **fully open source** 🧙‍♂️
 
 Find out more about these tools at our [landing page](https://paraspell.xyz)!
 
-Tired of reading? Listen to this AI created podcast about ParaSpell XCM Tools here - [AI Podcast about ParaSpell](https://notebooklm.google.com/notebook/53914b0b-323b-49c0-a5c2-7f4dd1e8123c/audio)
+Tired of reading? Listen to this AI created podcast about ParaSpell XCM Tools here - [AI Podcast about ParaSpell](https://notebooklm.google.com/notebook/4707adaa-0abf-417d-b48f-0f387e3625d3/audio)
 
 ## 👨‍🔬 Want to include ParaSpell✨ in your article?
 - Head over to our [presskit](https://github.com/paraspell/presskit) repository.
