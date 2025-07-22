@@ -45,7 +45,7 @@ Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools
 ## 📞 How to reach out to us:
 - Contact form on our [landing page](https://paraspell.xyz/#contact-us).
 - Message us on our [X](https://x.com/paraspell).
-- Support channel on [telegram](t.me/paraspell).
+- Support channel on [telegram](https://t.me/paraspell).
 
 ## 🧙 Remember:
 - This place is magical, feel free to try your paraSPELLS ✨<be>
