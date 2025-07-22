@@ -42,5 +42,9 @@ Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools
 - Feel free to open an issue
 - Feel free to create PR
 
+## 📞 How to reach out to us:
+- Contact form on our [landing page](https://paraspell.xyz/#contact-us)
+- Message us on our [X](https://x.com/paraspell)
+
 ## 🧙 Remember:
-- This place is magical, feel free to try your paraSPELLS ✨<br>
+- This place is magical, feel free to try your paraSPELLS ✨<be>
