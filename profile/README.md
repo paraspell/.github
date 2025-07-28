@@ -39,6 +39,7 @@ Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools
 - Head over to our [documentation](https://paraspell.github.io/docs/).
 
 ## 🔥 If you find a bug or want to request a new feature:
+- **🪲 There is a new bug [bounty program](https://paraspell.github.io/docs/contribution.html)!** You can get rewarded for reporting or fixing bugs.
 - Feel free to open an issue
 - Feel free to create PR
 
