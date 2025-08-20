@@ -1,9 +1,9 @@
 <h1 align="center">
-Welcome Polkadot and Kusama magician 👋
+Welcome XCM Magicians 👋
 </h1>
 
 <h3 align="center">
-Let us introduce you to 
+let us introduce you to 
 </h3>
 
 <p align="center">
