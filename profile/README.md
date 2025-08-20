@@ -11,7 +11,7 @@ Let us introduce you to
 </p>
 
 <h3 align="center">
-Set of XCM tools for Polkadot, Kusama, Westend and Paseo Paraverses
+Set of XCM tools for Polkadot, Kusama, Westend & Paseo Paraverses
 </h3>
 
 ## 🧰 This is what we are working on:
