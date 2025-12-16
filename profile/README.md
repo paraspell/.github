@@ -25,7 +25,7 @@ All of our tools are **completely free** and **fully open source** 🧙‍♂️
 
 Find out more about these tools at our [landing page](https://paraspell.xyz)!
 
-Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools (New version)](https://github.com/paraspell/presskit/blob/main/podcasts_notebooklm/ParaSpell_Podcast_by_NotebookLM.wav).
+Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools](https://github.com/paraspell/presskit/blob/main/podcasts_notebooklm/ParaSpell_Podcast_by_NotebookLM.wav).
 
 ## 🛫 Starting fresh? Try our starter templates!
 - [XCM SDK (React + Vite) starter template](https://github.com/paraspell/xcm-sdk-template)
