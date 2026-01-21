@@ -22,22 +22,22 @@ Set of XCM tools for Polkadot, Kusama, Westend & Paseo Paraverses
 - [XCM Visualizer](https://github.com/paraspell/xcm-tools/tree/main/apps/visualizer-fe) 🖼️ - An application developed to visualize XCM within the Polkadot ecosystem.
 
 > [!NOTE]
->All of our tools are **completely free** and **fully open source** 🧙‍♂️🪄
+>All of the tools are **completely free** and **fully open source** 🧙‍♂️🪄
 >
->Find out more about these tools at our [landing page](https://paraspell.xyz)!
+>Find out more about these tools at [landing page](https://paraspell.xyz)!
 >
 >Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools](https://github.com/paraspell/presskit/blob/main/podcasts_notebooklm/ParaSpell_Podcast_by_NotebookLM.wav).
 
-## 🛫 Starting fresh? Try our starter templates!
+## 🛫 Starting fresh? Try starter templates!
 - [XCM SDK (React + Vite) starter template](https://github.com/paraspell/xcm-sdk-template)
 - [XCM API (React + Vite) starter template](https://github.com/paraspell/xcm-api-template)
 - [XCM Router (React + Vite) starter template](https://github.com/paraspell/xcm-router-template)
 
 ## 👨‍🔬 Want to include ParaSpell✨ in your article?
-- Head over to our [presskit](https://github.com/paraspell/presskit) repository.
+- Head over to [presskit](https://github.com/paraspell/presskit) repository.
 
 ## 👨‍🏫 Want to know more about ParaSpell✨?
-- Head over to our [documentation](https://paraspell.github.io/docs/).
+- Head over to [documentation](https://paraspell.github.io/docs/).
 
 ## 🔥 If you find a bug or want to request a new feature:
 - **🪲 There is a new bug [bounty program](https://paraspell.github.io/docs/contribution.html)!** You can get rewarded for reporting or fixing bugs.
@@ -45,8 +45,8 @@ Set of XCM tools for Polkadot, Kusama, Westend & Paseo Paraverses
 - Feel free to create PR
 
 ## 📞 How to reach out to us:
-- Contact form on our [landing page](https://paraspell.xyz/#contact-us).
-- Message us on our [X](https://x.com/paraspell).
+- Contact form on [landing page](https://paraspell.xyz/#contact-us).
+- Message us on [X](https://x.com/paraspell).
 - Support channel on [telegram](https://t.me/paraspell).
 
 ## 🧙 Remember:
