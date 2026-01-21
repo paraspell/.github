@@ -21,11 +21,12 @@ Set of XCM tools for Polkadot, Kusama, Westend & Paseo Paraverses
 - [XCM Analyser](https://github.com/paraspell/xcm-tools/tree/main/packages/xcm-analyser) 🔎 - Analyser package to convert XCM Multilocations into a human-readable format.
 - [XCM Visualizer](https://github.com/paraspell/xcm-tools/tree/main/apps/visualizer-fe) 🖼️ - An application developed to visualize XCM within the Polkadot ecosystem.
 
-All of our tools are **completely free** and **fully open source** 🧙‍♂️🪄
-
-Find out more about these tools at our [landing page](https://paraspell.xyz)!
-
-Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools](https://github.com/paraspell/presskit/blob/main/podcasts_notebooklm/ParaSpell_Podcast_by_NotebookLM.wav).
+> [!NOTE]
+>All of our tools are **completely free** and **fully open source** 🧙‍♂️🪄
+>
+>Find out more about these tools at our [landing page](https://paraspell.xyz)!
+>
+>Tired of reading? Listen to this [AI generated Podcast about ParaSpell XCM Tools](https://github.com/paraspell/presskit/blob/main/podcasts_notebooklm/ParaSpell_Podcast_by_NotebookLM.wav).
 
 ## 🛫 Starting fresh? Try our starter templates!
 - [XCM SDK (React + Vite) starter template](https://github.com/paraspell/xcm-sdk-template)
