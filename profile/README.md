@@ -30,7 +30,6 @@ Set of XCM tools for Polkadot, Kusama, Westend & Paseo Paraverses
 ## 🛫 Starting fresh? Try starter templates!
 - [XCM SDK (React + Vite) starter template](https://github.com/paraspell/xcm-sdk-template)
 - [XCM API (React + Vite) starter template](https://github.com/paraspell/xcm-api-template)
-- [XCM Router (React + Vite) starter template](https://github.com/paraspell/xcm-router-template)
 
 ## 👨‍🔬 Want to include ParaSpell✨ in your article?
 - Head over to [presskit](https://github.com/paraspell/presskit) repository.
